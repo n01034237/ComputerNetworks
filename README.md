@@ -1,2 +1,0 @@
-# ComputerNetworks
-First github repository.
